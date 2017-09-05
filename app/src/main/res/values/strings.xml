@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DynamicTheme</string>
+
+    <string-array name="theme_array">
+        <item>THEME-1</item>
+        <item>THEME-2</item>
+    </string-array>
+</resources>
